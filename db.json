@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Tun Tun",
+      "age": "26",
+      "email": "tuntun@gmail.com",
+      "phone_no": "09966743",
+      "address": "Sagaing"
+    },
+    {
+      "id": "2",
+      "name": "Aung Aung",
+      "age": "25",
+      "email": "aungaung@gmail.com",
+      "phone_no": "09234534",
+      "address": "ShweBo"
+    },
+    {
+      "id": "3",
+      "name": "Zaw Zaw",
+      "age": "20",
+      "email": "zawzaw@gmail.com",
+      "phone_no": "095432345",
+      "address": "Mandalay"
+    },
+    {
+      "id": "4",
+      "name": "Aye Aye",
+      "age": "34",
+      "email": "ayeaye@gmail.com",
+      "phone_no": "0923322344",
+      "address": "Yangon"
+    },
+    {
+      "id": "5",
+      "name": "Nwe Oo",
+      "age": "24",
+      "email": "nweoo@gmail.com",
+      "phone_no": "0934565334",
+      "address": "Bago"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Iphone 13pro",
+      "model": "2021",
+      "price": "3000000"
+    },
+    {
+      "id": "2",
+      "name": "Oppo",
+      "model": "2019",
+      "price": "500000"
+    },
+    {
+      "id": "3",
+      "name": "Mi Note8 pro",
+      "model": "2020",
+      "price": "1000000"
+    }
+  ]
+}
